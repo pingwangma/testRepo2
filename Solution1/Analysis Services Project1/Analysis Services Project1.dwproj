@@ -12,8 +12,8 @@
       <FullPath>HTMLPage2.htm</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>readme 1.txt</Name>
-      <FullPath>readme 1.txt</FullPath>
+      <Name>readme.txt</Name>
+      <FullPath>readme.txt</FullPath>
     </ProjectItem>
   </Miscellaneous>
   <Configurations>
